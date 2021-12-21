@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
-- The purpose of this analysis was to sort through several kickstarted campaigns across various categories to uncover hidden trends in our data. Towards the end, our client requested that we discover common trends with data related to kickstarted campaigns that involved theater.
+The purpose of this analysis was to sort through several kickstarted campaigns across various categories to uncover hidden trends in our data. Towards the end, our client requested that we discover common trends with data related to kickstarted campaigns that involved theater.
 	
 ## Analysis and Challenges
 
