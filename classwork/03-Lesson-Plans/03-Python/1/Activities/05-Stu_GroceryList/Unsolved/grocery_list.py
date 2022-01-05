@@ -1,6 +1,8 @@
 # Create a Python list to store your grocery list
+grocery_list["yogurt","tea","eggs"]
 
 # Print the grocery list
+print(grocery_list)
 
 # Change "Peanut Butter" to "Almond Butter" and print out the updated list
 
