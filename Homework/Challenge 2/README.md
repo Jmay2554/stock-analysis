@@ -4,4 +4,5 @@ This project involved Microsoft Visual Basic, a coding language used to communic
 <br></br>
 ## Results
 ### Initial Analysis
-According to our analysis of the stock indexes, in 2017 all but 1 stock performed poorly. TERP had a negative return of -7.2% with a total volume traded of 139,402,800 <img src="Homework/Challenge 2/Resources/code_ss1.png">
+According to our analysis of the stock indexes, in 2017 all but 1 stock performed poorly. TERP had a negative return of -7.2% with a total volume traded of 139,402,800 
+To calculate our volume ![Screenshot 1](/Resources/code_ss1)
