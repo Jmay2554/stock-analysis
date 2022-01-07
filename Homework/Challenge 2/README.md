@@ -4,5 +4,20 @@ This project involved Microsoft Visual Basic, a coding language used to communic
 <br></br>
 ## Results
 ### Initial Analysis
-According to our analysis of the stock indexes, in 2017 all but 1 stock performed poorly. TERP had a negative return of -7.2% with a total volume traded of 139,402,800 
-To calculate our volume ![](Resources/code_ss1.png)
+According to our analysis of the stock indexes, in 2017 all but 1 stock performed well. TERP had a negative return of -7.2% with a total volume traded of 139,402,800.
+
+In 2018, there were only 2 stocks that performed well.ENPH with a return of 81.9% and a volume of 607,473,500 and RUN with a return of 84.0% and a total volume of 502,757,100.
+The postive returns are seen in green and the negative returns are seen in red for both screenshots below.
+<br></br>
+
+<img src ="Resources/stock_perf_2017.png" width = "200" alt ="2017 Performance"/>
+<img src ="Resources/stock_perf_2018.png" width = "200" alt ="2018 Performance"/>
+
+2018 Analysis
+
+<img src ="Resources/VBA_Challenge_2017.png" width = "425"/>
+![2018 Pre-Refactor Runtime](Resources/VBA_Challenge_2018.png)
+ 
+ 
+ 
+ ![](Resources/code_ss1.png). <br></br>
